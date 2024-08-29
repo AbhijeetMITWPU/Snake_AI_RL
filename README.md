@@ -37,8 +37,8 @@ The AI uses a deep Q-learning approach, where:
 Clone this repository and run the game:
 ```bash
 git clone https://github.com/AbhijeetMITWPU/Snake_AI_RL
-cd snake-ai
-python game.py
+cd Snake_AI_RL
+python agent.py
 ```
 ## 🔗 Links
 **Project Repository**: https://github.com/AbhijeetMITWPU/Snake_AI_RL.<br>
